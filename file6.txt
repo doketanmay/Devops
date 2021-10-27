@@ -3,7 +3,3 @@ Hello from b1 branch
 another code here
 
 New content on file6
-
-
-
-hello from b1
