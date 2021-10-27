@@ -1,1 +1,2 @@
 New file created on master
+Hello from b1 branch
