@@ -2,3 +2,4 @@ New file created on master
 Hello from b1 branch
 another code here
 
+New content on file6
